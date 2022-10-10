@@ -34,4 +34,4 @@ You can try as well:
 ./cryptgo price zcash jpy
 ```
 
-**Made with love by [crazyc4t](https://crazyc4t.xyz)
+**Made with love by [crazyc4t](https://crazyc4t.xyz)**
